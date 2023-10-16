@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisnog&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisnog&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisnog&theme=midnight-purple&show_icons=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisnog&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+
 
 <div style="display: inline-block"><br>
   <img align="center" alt="html" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>        
