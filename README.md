@@ -1,4 +1,4 @@
-# Olá, sou Thaís Nogueira 👋
+# Olá, sou a Thaís Nogueira 👋
 
 🌍 Explorando o mundo da tecnologia e programação, apaixonada pelo universo do desenvolvimento front-end. <br><br>
 🚀 Minha paixão está em criar interfaces incríveis e interativas, traduzindo ideias em código e dando vida a projetos através da programação front-end. Estou sempre aprendendo, experimentando e aprimorando minhas habilidades para proporcionar uma experiência visualmente cativante e funcional aos usuários. <br><br>
